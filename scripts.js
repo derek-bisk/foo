@@ -1,4 +1,6 @@
 console.log("Here is some text")
 
-const foo = "foobar"
-console.log(foo);
+const foo = "foo"
+const bar = "bar"
+
+console.log(foo + bar)
